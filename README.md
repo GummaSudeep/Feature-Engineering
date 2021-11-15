@@ -9,3 +9,7 @@ For the given data set I have performed all the below mentioned steps :
 1. Missing values
 2. Date Time Variables
 3. Categorical variables
+
+- [Advanced House Price](https://github.com/GummaSudeep/Feature-Engineering/blob/master/Feature_Engineering.ipynb): Performed a featuring engineering for the Advanced House Price by using the Numpy,Pandas,Matplotlib and Seaborn
+
+*Tools : Numpy,Pandas,Matplotlib and Seaborn
